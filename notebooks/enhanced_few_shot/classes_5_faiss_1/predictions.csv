@@ -1,0 +1,1601 @@
+text,label,prediction,inference_time,input_tokens_length,prompt_length,prompt
+I purchased something in a foreign currency but the rate applied is wrong,17,17.0,0.5082859992980957,109,598,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I purchased something in a foreign currency but the rate applied is wrong.
+output:"
+I made a currency exchange and think I was charged more than I should of been.,17,17.0,0.36086368560791016,112,603,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I made a currency exchange and think I was charged more than I should of been..
+output:"
+the card payment exchange rate is wrong,17,17.0,0.3575708866119385,103,564,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: the card payment exchange rate is wrong.
+output:"
+The exchange rate was wrong when I bought something outside the country.,17,17.0,0.35892653465270996,108,597,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The exchange rate was wrong when I bought something outside the country..
+output:"
+The exchange rate on my purchase is wrong.,17,17.0,0.3582735061645508,104,567,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The exchange rate on my purchase is wrong..
+output:"
+This rate is too low. Are you sure your using the right exchange rate.,17,17.0,0.3593173027038574,111,595,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: This rate is too low. Are you sure your using the right exchange rate..
+output:"
+"I bought something, but the exchange rate looks wrong.",17,17.0,0.3599131107330322,106,579,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I bought something, but the exchange rate looks wrong..
+output:"
+The rate applied to my foreign purchase was incorrect,17,17.0,0.35839295387268066,105,578,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The rate applied to my foreign purchase was incorrect.
+output:"
+I bought something in a foreign currency but the rate applied is wrong!,17,17.0,0.3591151237487793,110,596,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I bought something in a foreign currency but the rate applied is wrong!.
+output:"
+My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much.,17,17.0,0.3601367473602295,114,612,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much..
+output:"
+You did not apply the correct exchange rate for an item that I bought.,17,17.0,0.3591442108154297,110,595,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: You did not apply the correct exchange rate for an item that I bought..
+output:"
+The rate of exchange for my card payment is incorrect,17,17.0,0.35866284370422363,106,578,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The rate of exchange for my card payment is incorrect.
+output:"
+The rate for a currency exchange was wrong when I bought something.,17,17.0,0.35779428482055664,108,592,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The rate for a currency exchange was wrong when I bought something..
+output:"
+Why is the exchange rate wrong when I purchase something abroad?,17,17.0,0.3586914539337158,108,589,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why is the exchange rate wrong when I purchase something abroad?.
+output:"
+I bought an item and noticed the exchange rate was not correct.,17,17.0,0.3579559326171875,108,588,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I bought an item and noticed the exchange rate was not correct..
+output:"
+I bought something overseas and the wrong exchange rate is on my statement.,17,17.0,0.35869884490966797,109,600,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I bought something overseas and the wrong exchange rate is on my statement..
+output:"
+The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.,17,17.0,0.35866570472717285,117,634,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix..
+output:"
+Why is your exchange rate for my card payment wrong,17,17.0,0.3582191467285156,106,576,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why is your exchange rate for my card payment wrong.
+output:"
+Why am I being charged more ?,17,17.0,0.35765886306762695,103,554,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why am I being charged more ?.
+output:"
+I purchased an item and the exchange rate I was given was incorrect.,17,17.0,0.35842180252075195,109,593,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I purchased an item and the exchange rate I was given was incorrect..
+output:"
+I don't think my card payment exchange rate is correct.,17,17.0,0.35819387435913086,107,580,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I don't think my card payment exchange rate is correct..
+output:"
+"When I made a purchase last Saturday, I was charged extra. Did I receive the right exchange rate?",17,17.0,0.35897231101989746,117,622,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: When I made a purchase last Saturday, I was charged extra. Did I receive the right exchange rate?.
+output:"
+They charged me wrong for a currency exchange on a purchase.,17,17.0,0.3580639362335205,107,585,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: They charged me wrong for a currency exchange on a purchase..
+output:"
+I believe my card payment exchange rate is incorrect.,17,17.0,0.3572838306427002,105,578,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I believe my card payment exchange rate is incorrect..
+output:"
+"Hi, I have been overcharged for my payment last Saturday. I guess exchange rate was wrong.",17,17.0,0.35850954055786133,115,615,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Hi, I have been overcharged for my payment last Saturday. I guess exchange rate was wrong..
+output:"
+The exchange rate seems off on this transaction,17,17.0,0.3573126792907715,104,572,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The exchange rate seems off on this transaction.
+output:"
+"The exchange rate given to me wasn't correct, after i purchased an item",17,17.0,0.35729217529296875,111,596,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The exchange rate given to me wasn't correct, after i purchased an item.
+output:"
+"Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please.",17,17.0,0.35881829261779785,119,631,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please..
+output:"
+I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!,17,17.0,0.3575918674468994,122,646,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!.
+output:"
+I wasn't applied the correct exchange rate for an item I bought,17,17.0,0.3573648929595947,109,588,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I wasn't applied the correct exchange rate for an item I bought.
+output:"
+the conversion value for my card payments is incorrect.,17,17.0,0.35690879821777344,105,580,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: the conversion value for my card payments is incorrect..
+output:"
+The wrong exchange rate was used when I bought something with a foriegn currency.,17,17.0,0.3579103946685791,112,606,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The wrong exchange rate was used when I bought something with a foriegn currency..
+output:"
+I paid for something in foreign currency but noticed the exchange rate is incorrect.,17,17.0,0.3579843044281006,110,609,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I paid for something in foreign currency but noticed the exchange rate is incorrect..
+output:"
+The incorrect rate was used in my foreign purchase,17,17.0,0.3564887046813965,105,575,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The incorrect rate was used in my foreign purchase.
+output:"
+Why was the exchange rate incorrect for an item I recently bought?,17,17.0,0.35747742652893066,109,591,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why was the exchange rate incorrect for an item I recently bought?.
+output:"
+Why is my exchange rate wrong for an item I bought?,17,17.0,0.3571929931640625,108,576,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why is my exchange rate wrong for an item I bought?.
+output:"
+How can I check the exchange rate applied to my transaction?,17,17.0,0.3567008972167969,108,585,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I check the exchange rate applied to my transaction?.
+output:"
+Your exchange rate is totally wrong for my card payment,17,17.0,0.3570883274078369,106,580,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Your exchange rate is totally wrong for my card payment.
+output:"
+The wrong rate was applied to an item I bought in a currency different from mine. Can this be changed?,17,17.0,0.3582417964935303,118,627,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The wrong rate was applied to an item I bought in a currency different from mine. Can this be changed?.
+output:"
+I go the wrong exchange rate applied to my purchase in a foreign country.,17,17.0,0.3583855628967285,110,598,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I go the wrong exchange rate applied to my purchase in a foreign country..
+output:"
+Are contactless payments enabled on my new card?,23,23.0,0.3574209213256836,101,540,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Are contactless payments enabled on my new card?.
+output:"
+My contanctless has stopped working,23,23.0,0.35711193084716797,99,527,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: My contanctless has stopped working.
+output:"
+what is required documents for new card process ?,23,38.0,0.3568427562713623,101,546,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: what is required documents for new card process ?.
+output:"
+"I don't know what's wrong, my contactless stopped working. Tried it in a few different places today and it didn't work in any of them.",23,23.0,0.3580322265625,122,626,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I don't know what's wrong, my contactless stopped working. Tried it in a few different places today and it didn't work in any of them..
+output:"
+How do I get the contactless feature to work for my card?,23,23.0,0.3565244674682617,105,549,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How do I get the contactless feature to work for my card?.
+output:"
+I tried to pay contactless at the bus today and it didn't work. Any ideas why?,23,23.0,0.3572266101837158,111,570,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I tried to pay contactless at the bus today and it didn't work. Any ideas why?.
+output:"
+I've been unable to pay contactless with my card for over a week now. Is there a way to fix this issue?,23,23.0,0.35777831077575684,117,595,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I've been unable to pay contactless with my card for over a week now. Is there a way to fix this issue?.
+output:"
+Do you know why my contactless won't work?,23,23.0,0.35659313201904297,102,534,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Do you know why my contactless won't work?.
+output:"
+My contactless payments have not been completed successfully.,23,23.0,0.3569650650024414,100,553,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: My contactless payments have not been completed successfully..
+output:"
+Do I need to replace my card if it didn't work when I tried to pay contactless at the shop today?,23,23.0,0.35765910148620605,115,589,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Do I need to replace my card if it didn't work when I tried to pay contactless at the shop today?.
+output:"
+For some reason my contactless has stopped working. I don't know what the problem is. What can I do?,23,23.0,0.35768580436706543,115,592,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: For some reason my contactless has stopped working. I don't know what the problem is. What can I do?.
+output:"
+"I couldn't use my contactless this morning, it wasn't accepted.",23,23.0,0.3571624755859375,105,555,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I couldn't use my contactless this morning, it wasn't accepted..
+output:"
+Contactless isn't working for me,23,23.0,0.3568086624145508,98,524,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Contactless isn't working for me.
+output:"
+Why wouldn't the contactless payment work when I tried to pay at the bus today?,23,23.0,0.3577694892883301,109,571,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Why wouldn't the contactless payment work when I tried to pay at the bus today?.
+output:"
+How do I check my security settings to allow contactless pay?,23,23.0,0.35766005516052246,104,553,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How do I check my security settings to allow contactless pay?.
+output:"
+What can I do if contactless doesn't work?,23,23.0,0.35753560066223145,102,534,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: What can I do if contactless doesn't work?.
+output:"
+Fix my contactless,23,23.0,0.35710859298706055,95,510,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Fix my contactless.
+output:"
+How can I make my contactless work for the metro?,23,23.0,0.35723447799682617,103,541,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I make my contactless work for the metro?.
+output:"
+My contactless is not working,23,23.0,0.35920071601867676,97,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: My contactless is not working.
+output:"
+Can you help my fix my contactless?,23,23.0,0.35753560066223145,100,527,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Can you help my fix my contactless?.
+output:"
+For some reason my contactless won't work for me.,23,23.0,0.35692834854125977,102,541,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: For some reason my contactless won't work for me..
+output:"
+I'm unable to use contactless payments for purchases.,23,23.0,0.3578488826751709,101,545,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I'm unable to use contactless payments for purchases..
+output:"
+"When I tried to pay for my bus ride, the contactless payment wouldn't work. How can I prevent this in the future?",23,23.0,0.3600435256958008,118,605,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: When I tried to pay for my bus ride, the contactless payment wouldn't work. How can I prevent this in the future?.
+output:"
+The NFC payment wouldn't work on the bus today. Help?,23,23.0,0.357745885848999,104,545,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: The NFC payment wouldn't work on the bus today. Help?.
+output:"
+"I wanted to use my card contactless but it doesn't seem to be working, what could be the problem?",23,23.0,0.3583228588104248,114,589,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I wanted to use my card contactless but it doesn't seem to be working, what could be the problem?.
+output:"
+How do I make contactless work,23,23.0,0.35665106773376465,98,522,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How do I make contactless work.
+output:"
+what is the charges for new card?,23,22.0,0.35702013969421387,102,542,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the charges for new card?.
+output:"
+The contactless I have won't work.,23,23.0,0.3578524589538574,99,526,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: The contactless I have won't work..
+output:"
+Why isn't my contactless not working?,23,23.0,0.3564608097076416,100,529,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Why isn't my contactless not working?.
+output:"
+I wanted to use my contactless at the metro today but it didn't accept it!,23,23.0,0.3574342727661133,109,566,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I wanted to use my contactless at the metro today but it didn't accept it!.
+output:"
+It didnt work when I tried to pay contactless at the bus today. Why?,23,23.0,0.35744500160217285,108,560,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: It didnt work when I tried to pay contactless at the bus today. Why?.
+output:"
+I am not able to do contactless.,23,23.0,0.35609912872314453,99,524,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I am not able to do contactless..
+output:"
+How do I use contactless payments?,23,23.0,0.35682106018066406,99,526,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How do I use contactless payments?.
+output:"
+Help me with my contactless which isn't working.,23,23.0,0.35646891593933105,101,540,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Help me with my contactless which isn't working..
+output:"
+How can I fix a problem where contactless isn't working?,23,23.0,0.3570239543914795,104,548,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I fix a problem where contactless isn't working?.
+output:"
+How do I use contactless pay?,23,23.0,0.3571205139160156,99,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How do I use contactless pay?.
+output:"
+How do I enable contactless pay?,23,23.0,0.3569517135620117,99,524,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How do I enable contactless pay?.
+output:"
+Do I need to make a regular payment before a contactless one?,23,23.0,0.3562004566192627,105,553,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Do I need to make a regular payment before a contactless one?.
+output:"
+How can I find out where my contactless works?,23,23.0,0.3575420379638672,102,538,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I find out where my contactless works?.
+output:"
+Should i reinstall the payment app?,23,22.0,0.35633134841918945,101,544,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Should i reinstall the payment app?.
+output:"
+"I no longer live at my address on file, how do I change it?",30,30.0,0.35683560371398926,105,544,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I no longer live at my address on file, how do I change it?.
+output:"
+How to change my address.,30,30.0,0.3569607734680176,94,510,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How to change my address..
+output:"
+How do I update my details?,30,30.0,0.35631227493286133,96,512,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How do I update my details?.
+output:"
+My address needs to be revised.,30,30.0,0.35704612731933594,95,516,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: My address needs to be revised..
+output:"
+"got married, need to change account name",30,30.0,0.35758399963378906,97,525,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: got married, need to change account name.
+output:"
+My address has changed.,30,30.0,0.3573286533355713,93,508,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: My address has changed..
+output:"
+got married and need to change name,30,30.0,0.358806848526001,96,520,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: got married and need to change name.
+output:"
+I want to change my personal details.,30,30.0,0.3578164577484131,96,522,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I want to change my personal details..
+output:"
+I moved.  I need to update my details.,30,30.0,0.3566281795501709,99,523,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I moved.  I need to update my details..
+output:"
+I need to edit the personal details section of my account,30,30.0,0.3578648567199707,100,542,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to edit the personal details section of my account.
+output:"
+Where can I change my personal information after I move?,30,30.0,0.3572227954864502,100,541,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Where can I change my personal information after I move?.
+output:"
+Where can I go to modify my detail?,30,30.0,0.35631465911865234,98,520,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Where can I go to modify my detail?.
+output:"
+How do I change my information?,30,30.0,0.35718297958374023,96,516,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How do I change my information?.
+output:"
+I need to change my account details,30,30.0,0.3577265739440918,96,520,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to change my account details.
+output:"
+I moved.  Where do I update my details?,30,30.0,0.3590860366821289,100,524,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I moved.  Where do I update my details?.
+output:"
+I relocated and need to change my personal details.,30,30.0,0.3576035499572754,98,536,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I relocated and need to change my personal details..
+output:"
+I need to update my personal details,30,30.0,0.35706186294555664,96,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to update my personal details.
+output:"
+My address has changed. How do I report it?,30,30.0,0.3585832118988037,100,528,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: My address has changed. How do I report it?.
+output:"
+I need to update my info.,30,30.0,0.35689401626586914,95,510,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to update my info..
+output:"
+How can I modify my details?,30,30.0,0.35708189010620117,96,513,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How can I modify my details?.
+output:"
+What do i have to do to change my name?,30,30.0,0.35652828216552734,100,524,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: What do i have to do to change my name?.
+output:"
+My address has updated and I need to change it.,30,30.0,0.35826635360717773,99,532,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: My address has updated and I need to change it..
+output:"
+Where can I go to update my personal profile?,30,30.0,0.35739564895629883,99,530,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Where can I go to update my personal profile?.
+output:"
+Is it possible to edit my personal details on the app?,30,30.0,0.3572235107421875,101,539,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Is it possible to edit my personal details on the app?.
+output:"
+how can i change my details,30,30.0,0.3568451404571533,95,512,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: how can i change my details.
+output:"
+I need help changing my last name on my account.,30,30.0,0.3579139709472656,99,533,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need help changing my last name on my account..
+output:"
+How do I update my current residence details?,30,30.0,0.3570098876953125,98,530,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How do I update my current residence details?.
+output:"
+how do i change name?,30,30.0,0.35730767250061035,95,506,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: how do i change name?.
+output:"
+I need to change my name since I got married,30,30.0,0.3576533794403076,99,529,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to change my name since I got married.
+output:"
+I want to change my address.,30,30.0,0.3573489189147949,95,513,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I want to change my address..
+output:"
+how to change name,30,30.0,0.3570547103881836,93,503,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: how to change name.
+output:"
+Can I change my information?,30,30.0,0.3567619323730469,95,513,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Can I change my information?.
+output:"
+I need to update my current address,30,30.0,0.35645461082458496,96,520,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to update my current address.
+output:"
+I have moved.  Where can I update my details?,30,30.0,0.35693883895874023,101,530,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I have moved.  Where can I update my details?.
+output:"
+I want to change my name.,30,30.0,0.3573272228240967,95,510,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I want to change my name..
+output:"
+Should I just wait until the post office sends a change of address form?,30,30.0,0.35731077194213867,104,557,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Should I just wait until the post office sends a change of address form?.
+output:"
+I need to change my name what do I do?,30,30.0,0.35687875747680664,100,523,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I need to change my name what do I do?.
+output:"
+How can I edit my personal details?,30,30.0,0.35671067237854004,97,520,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How can I edit my personal details?.
+output:"
+How do I change my address?,30,30.0,0.3563816547393799,96,512,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: How do I change my address?.
+output:"
+What do I need to do to change the address on my account?,30,30.0,0.35802435874938965,103,542,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: What do I need to do to change the address on my account?.
+output:"
+What do I do with my card PIN?,38,38.0,0.3568997383117676,101,527,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: What do I do with my card PIN?.
+output:"
+Is the PIN delivered separately?,38,38.0,0.35694050788879395,98,529,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Is the PIN delivered separately?.
+output:"
+I do not have my pin,38,,0.35639309883117676,97,512,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I do not have my pin.
+output:"
+Are PIN separately?,38,38.0,0.35695815086364746,96,516,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Are PIN separately?.
+output:"
+I cannot seem to find my PIN. Where is it?,38,38.0,0.35669803619384766,104,539,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I cannot seem to find my PIN. Where is it?.
+output:"
+How do I set-up my PIN for the new card?,38,38.0,0.35718584060668945,104,537,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How do I set-up my PIN for the new card?.
+output:"
+How do I find my card PIN?,38,38.0,0.3560514450073242,100,523,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How do I find my card PIN?.
+output:"
+is my card PIN saved in the app,38,,0.35714244842529297,102,540,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: is my card PIN saved in the app.
+output:"
+I don't know where to look to find my PIN.,38,38.0,0.35646772384643555,103,539,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I don't know where to look to find my PIN..
+output:"
+where in the app can i find out about my new pin,38,38.0,0.3571648597717285,104,545,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: where in the app can i find out about my new pin.
+output:"
+Where in the app can I find my PIN?,38,38.0,0.3571043014526367,102,532,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Where in the app can I find my PIN?.
+output:"
+I just got my new card but am not sure how to check its PIN.,38,38.0,0.3577463626861572,107,557,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I just got my new card but am not sure how to check its PIN..
+output:"
+do i need a pin,38,38.0,0.3567061424255371,97,512,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: do i need a pin.
+output:"
+"If I need a PIN for my card, where is it located?",38,38.0,0.3575174808502197,106,546,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: If I need a PIN for my card, where is it located?.
+output:"
+what is my card PIN,38,38.0,0.3569509983062744,97,516,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: what is my card PIN.
+output:"
+And what about the Card's PIN?,38,38.0,0.357027530670166,100,527,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: And what about the Card's PIN?.
+output:"
+About this card PIN?,38,38.0,0.35666513442993164,97,517,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: About this card PIN?.
+output:"
+I received my card but not my PIN.,38,38.0,0.3573324680328369,100,531,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I received my card but not my PIN..
+output:"
+Why can't I see my PIN?,38,38.0,0.35660719871520996,100,520,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Why can't I see my PIN?.
+output:"
+what is the process for setting up a pin,38,38.0,0.35594654083251953,101,537,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: what is the process for setting up a pin.
+output:"
+Does my PIN come with my card?,38,38.0,0.35672640800476074,100,527,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Does my PIN come with my card?.
+output:"
+Where can I find the card PIN?,38,38.0,0.35668230056762695,100,527,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Where can I find the card PIN?.
+output:"
+Why isn't my PIN available yet?,38,38.0,0.3562490940093994,100,528,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Why isn't my PIN available yet?.
+output:"
+Is my PIN located on my account somewhere?,38,22.0,0.35685014724731445,103,551,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Is my PIN located on my account somewhere?.
+output:"
+"Please help in finding my card PIN, thank you!",38,38.0,0.3566408157348633,103,543,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Please help in finding my card PIN, thank you!.
+output:"
+Where is my PIN number located?,38,38.0,0.3572216033935547,99,528,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Where is my PIN number located?.
+output:"
+I still don't have my pin.,38,38.0,0.35689234733581543,99,523,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I still don't have my pin..
+output:"
+So what about the card PIN?,38,38.0,0.3558642864227295,99,524,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: So what about the card PIN?.
+output:"
+I cannot locate the card PIN.,38,38.0,0.355926513671875,98,526,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I cannot locate the card PIN..
+output:"
+I need my PIN,38,38.0,0.35613369941711426,96,510,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I need my PIN.
+output:"
+Where can I find my PIN?,38,38.0,0.3565523624420166,99,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Where can I find my PIN?.
+output:"
+When do I receive my PIN,38,38.0,0.35629725456237793,98,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: When do I receive my PIN.
+output:"
+Help me find my card pin!,38,23.0,0.3567357063293457,98,517,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Help me find my card pin!.
+output:"
+Is PIN delivered separately?,38,38.0,0.35663414001464844,97,525,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Is PIN delivered separately?.
+output:"
+I can not find my card pin.,38,23.0,0.35655784606933594,98,519,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I can not find my card pin..
+output:"
+What do I need to do for a PIN?,38,38.0,0.35675954818725586,102,528,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: What do I need to do for a PIN?.
+output:"
+Why can't I find my PIN?,38,38.0,0.3571915626525879,100,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Why can't I find my PIN?.
+output:"
+Where is the card PIN?,38,38.0,0.356975793838501,98,519,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Where is the card PIN?.
+output:"
+What is my card's PIN?,38,38.0,0.3567643165588379,99,519,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: What is my card's PIN?.
+output:"
+where can user find pin?,38,38.0,0.35706114768981934,98,521,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: where can user find pin?.
+output:"
+I think someone is using my card to make transactions I don't remember.,22,22.0,0.358569860458374,108,580,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think someone is using my card to make transactions I don't remember..
+output:"
+someone is using my account,22,22.0,0.35764145851135254,99,536,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: someone is using my account.
+output:"
+Someone I don't know has used my card without permission.,22,22.0,0.35781145095825195,105,566,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Someone I don't know has used my card without permission..
+output:"
+My card was used without my permission.,22,22.0,0.3576691150665283,101,548,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: My card was used without my permission..
+output:"
+Can I freeze my card right now?,22,22.0,0.35759854316711426,102,540,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can I freeze my card right now?.
+output:"
+Freeze my account it's been hacked.,22,22.0,0.35782337188720703,101,544,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Freeze my account it's been hacked..
+output:"
+"There are transactions I didn't make, someone else must have used my card.",22,22.0,0.3587815761566162,109,583,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: There are transactions I didn't make, someone else must have used my card..
+output:"
+Can you freeze my card because someone used it while I was out of town. I did not make these purchases.,22,22.0,0.3590259552001953,116,612,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you freeze my card because someone used it while I was out of town. I did not make these purchases..
+output:"
+Someone is using my account to do online shopping! Please freeze it asap,22,22.0,0.35831713676452637,109,581,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Someone is using my account to do online shopping! Please freeze it asap.
+output:"
+Someone else may be using my card.  There are transactions I don't recognize.,22,22.0,0.3584473133087158,110,586,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Someone else may be using my card.  There are transactions I don't recognize..
+output:"
+What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!,22,22.0,0.42994046211242676,130,677,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!.
+output:"
+What do I do if I think my card was improperly used?,22,22.0,0.3583712577819824,107,561,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: What do I do if I think my card was improperly used?.
+output:"
+How can I stop fraud on my account right now?,22,22.0,0.35784387588500977,105,554,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I stop fraud on my account right now?.
+output:"
+"I think my identity has been stolen, can you check on unauthorized charges?",22,22.0,0.35871148109436035,109,584,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think my identity has been stolen, can you check on unauthorized charges?.
+output:"
+I think someone else is using my card.  There are transactions I didn't make.,22,22.0,0.3583643436431885,111,586,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think someone else is using my card.  There are transactions I didn't make..
+output:"
+"I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it.",22,22.0,0.35956263542175293,118,622,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it..
+output:"
+Can I use app to freeze account and dispute fraud?,22,22.0,0.35864901542663574,105,559,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can I use app to freeze account and dispute fraud?.
+output:"
+My card is being used online to make a bunch of purchases! Someone else is using it fraudulently. Can you help me freeze it?,22,22.0,0.3596196174621582,123,633,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: My card is being used online to make a bunch of purchases! Someone else is using it fraudulently. Can you help me freeze it?.
+output:"
+"Someone has my card number, freeze my account.",22,22.0,0.35846686363220215,103,555,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Someone has my card number, freeze my account..
+output:"
+"I see random purchases to my account, was it hacked?",22,22.0,0.35807085037231445,106,561,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I see random purchases to my account, was it hacked?.
+output:"
+It seems someone used my card! There are a few transactions from a small town in the middle of nowhere that I definitely have not made! Please prevent them from using it immediately!,22,22.0,0.427962064743042,130,691,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: It seems someone used my card! There are a few transactions from a small town in the middle of nowhere that I definitely have not made! Please prevent them from using it immediately!.
+output:"
+How do I freeze my card using the app?,22,38.0,0.3574178218841553,102,535,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How do I freeze my card using the app?.
+output:"
+My card has been compromised,22,22.0,0.358170747756958,99,537,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: My card has been compromised.
+output:"
+What should I do if I think that someone else may be using my card.,22,22.0,0.35825276374816895,109,576,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: What should I do if I think that someone else may be using my card..
+output:"
+"The transactions showing up are strange, I think my card was used without me knowing.",22,22.0,0.35822248458862305,110,594,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: The transactions showing up are strange, I think my card was used without me knowing..
+output:"
+How do I freeze my account?,22,22.0,0.35785555839538574,101,536,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How do I freeze my account?.
+output:"
+"I'm not certain, but someone may be using my card.",22,22.0,0.35947132110595703,106,559,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I'm not certain, but someone may be using my card..
+output:"
+How do I freeze my card? I think someone is using it to make a bunch of online transactions.,22,22.0,0.3588991165161133,114,601,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How do I freeze my card? I think someone is using it to make a bunch of online transactions..
+output:"
+I think someone got my card details and used it because there are transactions i don't recognize. What do I do now?,22,22.0,0.35884833335876465,119,624,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think someone got my card details and used it because there are transactions i don't recognize. What do I do now?.
+output:"
+Someone else used my card!,22,22.0,0.35753750801086426,100,535,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Someone else used my card!.
+output:"
+I believe someone is using my card without my agreement!,22,22.0,0.35807371139526367,105,565,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I believe someone is using my card without my agreement!.
+output:"
+"If I feel someone has my card information, can I get a new card?",22,22.0,0.35860323905944824,110,573,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: If I feel someone has my card information, can I get a new card?.
+output:"
+"There are a few transaction that I don't recognize, I think someone managed to get my card details and use it.",22,22.0,0.3597712516784668,117,619,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: There are a few transaction that I don't recognize, I think someone managed to get my card details and use it..
+output:"
+I think someone has access to my card numbers that shouldn't.,22,22.0,0.35921430587768555,106,570,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think someone has access to my card numbers that shouldn't..
+output:"
+I think my child used my card while I wasn't home.,22,22.0,0.35709595680236816,106,559,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think my child used my card while I wasn't home..
+output:"
+What do I do if I think someone managed to get my card information?,22,22.0,0.35715508460998535,109,576,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: What do I do if I think someone managed to get my card information?.
+output:"
+I think someone copied the numbers on my card and is using them.,22,22.0,0.356647253036499,107,573,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I think someone copied the numbers on my card and is using them..
+output:"
+What should I do if I think someone is using my card.,22,22.0,0.356334924697876,106,562,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: What should I do if I think someone is using my card..
+output:"
+Can I use app to freeze my card and dispute fraud?,22,22.0,0.35661768913269043,106,559,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can I use app to freeze my card and dispute fraud?.
+output:"
+"Someone else is using my card, freeze it.",22,22.0,0.35770106315612793,103,550,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Someone else is using my card, freeze it..
+output:"

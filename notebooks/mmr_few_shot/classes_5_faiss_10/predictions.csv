@@ -1,0 +1,4001 @@
+text,label,prediction,inference_time,input_tokens_length,prompt_length,prompt
+I purchased something in a foreign currency but the rate applied is wrong,17,17.0,0.4850742816925049,175,833,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased something in a foreign currency but the rate applied is wrong.
+output:"
+I made a currency exchange and think I was charged more than I should of been.,17,17.0,0.4430348873138428,178,838,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I made a currency exchange and think I was charged more than I should of been..
+output:"
+the card payment exchange rate is wrong,17,17.0,0.4453089237213135,169,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: the card payment exchange rate is wrong.
+output:"
+The exchange rate was wrong when I bought something outside the country.,17,17.0,0.44336438179016113,174,832,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: The exchange rate was wrong when I bought something outside the country..
+output:"
+The exchange rate on my purchase is wrong.,17,17.0,0.43972158432006836,170,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The exchange rate on my purchase is wrong..
+output:"
+This rate is too low. Are you sure your using the right exchange rate.,17,17.0,0.44237351417541504,177,830,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: This rate is too low. Are you sure your using the right exchange rate..
+output:"
+"I bought something, but the exchange rate looks wrong.",17,17.0,0.4444401264190674,172,814,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I bought something, but the exchange rate looks wrong..
+output:"
+The rate applied to my foreign purchase was incorrect,17,17.0,0.4414334297180176,171,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The rate applied to my foreign purchase was incorrect.
+output:"
+I bought something in a foreign currency but the rate applied is wrong!,17,17.0,0.4416646957397461,176,831,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I bought something in a foreign currency but the rate applied is wrong!.
+output:"
+My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much.,17,17.0,0.44179725646972656,180,847,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much..
+output:"
+You did not apply the correct exchange rate for an item that I bought.,17,17.0,0.44123315811157227,176,830,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: You did not apply the correct exchange rate for an item that I bought..
+output:"
+The rate of exchange for my card payment is incorrect,17,17.0,0.44105005264282227,172,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The rate of exchange for my card payment is incorrect.
+output:"
+The rate for a currency exchange was wrong when I bought something.,17,17.0,0.441455602645874,174,827,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: The rate for a currency exchange was wrong when I bought something..
+output:"
+Why is the exchange rate wrong when I purchase something abroad?,17,17.0,0.44248485565185547,174,824,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: Why is the exchange rate wrong when I purchase something abroad?.
+output:"
+I bought an item and noticed the exchange rate was not correct.,17,17.0,0.4424757957458496,174,823,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I bought an item and noticed the exchange rate was not correct..
+output:"
+I bought something overseas and the wrong exchange rate is on my statement.,17,17.0,0.44206881523132324,175,835,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I bought something overseas and the wrong exchange rate is on my statement..
+output:"
+The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.,17,17.0,0.443950891494751,183,869,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix..
+output:"
+Why is your exchange rate for my card payment wrong,17,17.0,0.4421670436859131,172,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Why is your exchange rate for my card payment wrong.
+output:"
+Why am I being charged more ?,17,38.0,0.4420173168182373,169,789,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Why am I being charged more ?.
+output:"
+I purchased an item and the exchange rate I was given was incorrect.,17,17.0,0.44269466400146484,175,828,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect..
+output:"
+I don't think my card payment exchange rate is correct.,17,17.0,0.44347381591796875,173,815,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I don't think my card payment exchange rate is correct..
+output:"
+"When I made a purchase last Saturday, I was charged extra. Did I receive the right exchange rate?",17,17.0,0.44220662117004395,183,857,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: When I made a purchase last Saturday, I was charged extra. Did I receive the right exchange rate?.
+output:"
+They charged me wrong for a currency exchange on a purchase.,17,17.0,0.4432346820831299,173,820,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: They charged me wrong for a currency exchange on a purchase..
+output:"
+I believe my card payment exchange rate is incorrect.,17,17.0,0.4421200752258301,171,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I believe my card payment exchange rate is incorrect..
+output:"
+"Hi, I have been overcharged for my payment last Saturday. I guess exchange rate was wrong.",17,17.0,0.4420616626739502,181,850,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Hi, I have been overcharged for my payment last Saturday. I guess exchange rate was wrong..
+output:"
+The exchange rate seems off on this transaction,17,17.0,0.4382596015930176,170,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The exchange rate seems off on this transaction.
+output:"
+"The exchange rate given to me wasn't correct, after i purchased an item",17,17.0,0.4390683174133301,177,831,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The exchange rate given to me wasn't correct, after i purchased an item.
+output:"
+"Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please.",17,17.0,0.4404489994049072,185,866,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please..
+output:"
+I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!,17,17.0,0.4427199363708496,188,881,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!.
+output:"
+I wasn't applied the correct exchange rate for an item I bought,17,17.0,0.4431130886077881,175,823,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I wasn't applied the correct exchange rate for an item I bought.
+output:"
+the conversion value for my card payments is incorrect.,17,17.0,0.4415900707244873,171,815,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: the conversion value for my card payments is incorrect..
+output:"
+The wrong exchange rate was used when I bought something with a foriegn currency.,17,17.0,0.442582368850708,178,841,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The wrong exchange rate was used when I bought something with a foriegn currency..
+output:"
+I paid for something in foreign currency but noticed the exchange rate is incorrect.,17,17.0,0.44242095947265625,176,844,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I paid for something in foreign currency but noticed the exchange rate is incorrect..
+output:"
+The incorrect rate was used in my foreign purchase,17,17.0,5.899761915206909,171,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The incorrect rate was used in my foreign purchase.
+output:"
+Why was the exchange rate incorrect for an item I recently bought?,17,17.0,0.5875287055969238,175,826,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: Why was the exchange rate incorrect for an item I recently bought?.
+output:"
+Why is my exchange rate wrong for an item I bought?,17,17.0,0.4414479732513428,174,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Why is my exchange rate wrong for an item I bought?.
+output:"
+How can I check the exchange rate applied to my transaction?,17,17.0,0.4427042007446289,174,820,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I check the exchange rate applied to my transaction?.
+output:"
+Your exchange rate is totally wrong for my card payment,17,17.0,0.49036121368408203,172,815,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Your exchange rate is totally wrong for my card payment.
+output:"
+The wrong rate was applied to an item I bought in a currency different from mine. Can this be changed?,17,17.0,0.44554877281188965,184,862,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: The wrong rate was applied to an item I bought in a currency different from mine. Can this be changed?.
+output:"
+I go the wrong exchange rate applied to my purchase in a foreign country.,17,17.0,0.4641261100769043,176,833,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I go the wrong exchange rate applied to my purchase in a foreign country..
+output:"
+Are contactless payments enabled on my new card?,23,23.0,0.4438040256500244,172,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Are contactless payments enabled on my new card?.
+output:"
+My contanctless has stopped working,23,,0.8719773292541504,170,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: My contanctless has stopped working.
+output:"
+what is required documents for new card process ?,23,38.0,1.6403603553771973,171,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is required documents for new card process ?.
+output:"
+"I don't know what's wrong, my contactless stopped working. Tried it in a few different places today and it didn't work in any of them.",23,23.0,0.46160888671875,193,894,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I don't know what's wrong, my contactless stopped working. Tried it in a few different places today and it didn't work in any of them..
+output:"
+How do I get the contactless feature to work for my card?,23,23.0,0.45461249351501465,176,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I get the contactless feature to work for my card?.
+output:"
+I tried to pay contactless at the bus today and it didn't work. Any ideas why?,23,23.0,0.44211864471435547,182,838,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I tried to pay contactless at the bus today and it didn't work. Any ideas why?.
+output:"
+I've been unable to pay contactless with my card for over a week now. Is there a way to fix this issue?,23,23.0,0.44546937942504883,188,863,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I've been unable to pay contactless with my card for over a week now. Is there a way to fix this issue?.
+output:"
+Do you know why my contactless won't work?,23,23.0,0.44159793853759766,173,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Do you know why my contactless won't work?.
+output:"
+My contactless payments have not been completed successfully.,23,23.0,0.4400928020477295,171,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: My contactless payments have not been completed successfully..
+output:"
+Do I need to replace my card if it didn't work when I tried to pay contactless at the shop today?,23,,0.4407370090484619,186,857,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Do I need to replace my card if it didn't work when I tried to pay contactless at the shop today?.
+output:"
+For some reason my contactless has stopped working. I don't know what the problem is. What can I do?,23,23.0,0.441511869430542,186,860,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: For some reason my contactless has stopped working. I don't know what the problem is. What can I do?.
+output:"
+"I couldn't use my contactless this morning, it wasn't accepted.",23,23.0,0.4413595199584961,176,823,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I couldn't use my contactless this morning, it wasn't accepted..
+output:"
+Contactless isn't working for me,23,23.0,0.440718412399292,169,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Contactless isn't working for me.
+output:"
+Why wouldn't the contactless payment work when I tried to pay at the bus today?,23,23.0,0.4422917366027832,180,839,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: Why wouldn't the contactless payment work when I tried to pay at the bus today?.
+output:"
+How do I check my security settings to allow contactless pay?,23,23.0,0.4432709217071533,175,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I check my security settings to allow contactless pay?.
+output:"
+What can I do if contactless doesn't work?,23,23.0,0.4425489902496338,173,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What can I do if contactless doesn't work?.
+output:"
+Fix my contactless,23,23.0,0.43880176544189453,166,778,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Fix my contactless.
+output:"
+How can I make my contactless work for the metro?,23,23.0,0.4412257671356201,174,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I make my contactless work for the metro?.
+output:"
+My contactless is not working,23,23.0,0.4426243305206299,168,789,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: My contactless is not working.
+output:"
+Can you help my fix my contactless?,23,23.0,0.4403553009033203,171,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?.
+output:"
+For some reason my contactless won't work for me.,23,23.0,0.44145703315734863,173,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: For some reason my contactless won't work for me..
+output:"
+I'm unable to use contactless payments for purchases.,23,23.0,0.44368696212768555,172,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I'm unable to use contactless payments for purchases..
+output:"
+"When I tried to pay for my bus ride, the contactless payment wouldn't work. How can I prevent this in the future?",23,23.0,0.4436976909637451,189,873,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: When I tried to pay for my bus ride, the contactless payment wouldn't work. How can I prevent this in the future?.
+output:"
+The NFC payment wouldn't work on the bus today. Help?,23,23.0,0.5258145332336426,175,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: The NFC payment wouldn't work on the bus today. Help?.
+output:"
+"I wanted to use my card contactless but it doesn't seem to be working, what could be the problem?",23,23.0,0.4653615951538086,185,857,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I wanted to use my card contactless but it doesn't seem to be working, what could be the problem?.
+output:"
+How do I make contactless work,23,23.0,0.4400651454925537,169,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I make contactless work.
+output:"
+what is the charges for new card?,23,17.0,0.44055843353271484,170,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the charges for new card?.
+output:"
+The contactless I have won't work.,23,23.0,3.768228054046631,170,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: The contactless I have won't work..
+output:"
+Why isn't my contactless not working?,23,23.0,0.5996315479278564,171,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why isn't my contactless not working?.
+output:"
+I wanted to use my contactless at the metro today but it didn't accept it!,23,23.0,0.4375436305999756,180,834,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I wanted to use my contactless at the metro today but it didn't accept it!.
+output:"
+It didnt work when I tried to pay contactless at the bus today. Why?,23,23.0,0.43560028076171875,179,828,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: It didnt work when I tried to pay contactless at the bus today. Why?.
+output:"
+I am not able to do contactless.,23,23.0,0.4382057189941406,170,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I am not able to do contactless..
+output:"
+How do I use contactless payments?,23,23.0,0.4400191307067871,170,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I use contactless payments?.
+output:"
+Help me with my contactless which isn't working.,23,23.0,0.4402332305908203,172,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Help me with my contactless which isn't working..
+output:"
+How can I fix a problem where contactless isn't working?,23,23.0,0.44045019149780273,175,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I fix a problem where contactless isn't working?.
+output:"
+How do I use contactless pay?,23,23.0,0.44172000885009766,170,789,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How do I use contactless pay?.
+output:"
+How do I enable contactless pay?,23,23.0,0.4423830509185791,170,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I enable contactless pay?.
+output:"
+Do I need to make a regular payment before a contactless one?,23,17.0,0.4391050338745117,176,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Do I need to make a regular payment before a contactless one?.
+output:"
+How can I find out where my contactless works?,23,,0.44140195846557617,173,806,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I find out where my contactless works?.
+output:"
+Should i reinstall the payment app?,23,38.0,0.44223833084106445,169,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Should i reinstall the payment app?.
+output:"
+"I no longer live at my address on file, how do I change it?",30,30.0,0.7109355926513672,178,819,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I no longer live at my address on file, how do I change it?.
+output:"
+How to change my address.,30,30.0,0.4559333324432373,167,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How to change my address..
+output:"
+How do I update my details?,30,30.0,0.44440531730651855,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I update my details?.
+output:"
+My address needs to be revised.,30,30.0,0.4405841827392578,168,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: My address needs to be revised..
+output:"
+"got married, need to change account name",30,,0.4391453266143799,170,800,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: got married, need to change account name.
+output:"
+My address has changed.,30,,0.4404304027557373,166,783,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: My address has changed..
+output:"
+got married and need to change name,30,,0.4402956962585449,169,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: got married and need to change name.
+output:"
+I want to change my personal details.,30,30.0,0.4393620491027832,169,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I want to change my personal details..
+output:"
+I moved.  I need to update my details.,30,30.0,0.4416816234588623,172,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I moved.  I need to update my details..
+output:"
+I need to edit the personal details section of my account,30,30.0,0.44204115867614746,173,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I need to edit the personal details section of my account.
+output:"
+Where can I change my personal information after I move?,30,30.0,0.44464778900146484,173,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Where can I change my personal information after I move?.
+output:"
+Where can I go to modify my detail?,30,30.0,0.4404304027557373,171,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Where can I go to modify my detail?.
+output:"
+How do I change my information?,30,30.0,0.44351935386657715,169,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I change my information?.
+output:"
+I need to change my account details,30,30.0,0.445737361907959,169,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I need to change my account details.
+output:"
+I moved.  Where do I update my details?,30,30.0,0.6050035953521729,173,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I moved.  Where do I update my details?.
+output:"
+I relocated and need to change my personal details.,30,30.0,0.4506864547729492,171,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I relocated and need to change my personal details..
+output:"
+I need to update my personal details,30,30.0,0.4411966800689697,169,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I need to update my personal details.
+output:"
+My address has changed. How do I report it?,30,30.0,0.4419984817504883,173,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: My address has changed. How do I report it?.
+output:"
+I need to update my info.,30,30.0,0.4396376609802246,168,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I need to update my info..
+output:"
+How can I modify my details?,30,30.0,0.4407680034637451,169,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?.
+output:"
+What do i have to do to change my name?,30,30.0,0.44127893447875977,173,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: What do i have to do to change my name?.
+output:"
+My address has updated and I need to change it.,30,30.0,0.443223237991333,172,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: My address has updated and I need to change it..
+output:"
+Where can I go to update my personal profile?,30,30.0,0.44312500953674316,172,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Where can I go to update my personal profile?.
+output:"
+Is it possible to edit my personal details on the app?,30,30.0,0.4419376850128174,174,814,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Is it possible to edit my personal details on the app?.
+output:"
+how can i change my details,30,30.0,0.4399588108062744,168,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: how can i change my details.
+output:"
+I need help changing my last name on my account.,30,17.0,0.4408092498779297,172,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I need help changing my last name on my account..
+output:"
+How do I update my current residence details?,30,30.0,0.4422123432159424,171,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How do I update my current residence details?.
+output:"
+how do i change name?,30,30.0,0.44020795822143555,168,781,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: how do i change name?.
+output:"
+I need to change my name since I got married,30,,0.4395017623901367,172,804,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I need to change my name since I got married.
+output:"
+I want to change my address.,30,30.0,0.43886256217956543,168,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I want to change my address..
+output:"
+how to change name,30,30.0,0.4401535987854004,166,778,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: how to change name.
+output:"
+Can I change my information?,30,30.0,0.44178009033203125,168,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can I change my information?.
+output:"
+I need to update my current address,30,,0.44069695472717285,169,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I need to update my current address.
+output:"
+I have moved.  Where can I update my details?,30,30.0,0.44055724143981934,174,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I have moved.  Where can I update my details?.
+output:"
+I want to change my name.,30,,0.44077134132385254,168,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I want to change my name..
+output:"
+Should I just wait until the post office sends a change of address form?,30,,0.4424092769622803,177,832,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Should I just wait until the post office sends a change of address form?.
+output:"
+I need to change my name what do I do?,30,30.0,0.4385712146759033,173,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I need to change my name what do I do?.
+output:"
+How can I edit my personal details?,30,30.0,0.4381873607635498,170,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I edit my personal details?.
+output:"
+How do I change my address?,30,30.0,0.44028735160827637,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How do I change my address?.
+output:"
+What do I need to do to change the address on my account?,30,17.0,0.4410066604614258,176,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What do I need to do to change the address on my account?.
+output:"
+What do I do with my card PIN?,38,38.0,0.4397742748260498,171,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What do I do with my card PIN?.
+output:"
+Is the PIN delivered separately?,38,38.0,0.4390733242034912,168,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Is the PIN delivered separately?.
+output:"
+I do not have my pin,38,17.0,0.43906331062316895,168,780,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I do not have my pin.
+output:"
+Are PIN separately?,38,38.0,0.4399890899658203,166,779,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Are PIN separately?.
+output:"
+I cannot seem to find my PIN. Where is it?,38,38.0,0.44182658195495605,174,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I cannot seem to find my PIN. Where is it?.
+output:"
+How do I set-up my PIN for the new card?,38,38.0,0.44075965881347656,174,800,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I set-up my PIN for the new card?.
+output:"
+How do I find my card PIN?,38,,0.4404470920562744,170,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I find my card PIN?.
+output:"
+is my card PIN saved in the app,38,38.0,0.43853020668029785,170,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: is my card PIN saved in the app.
+output:"
+I don't know where to look to find my PIN.,38,38.0,0.43961215019226074,173,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I don't know where to look to find my PIN..
+output:"
+where in the app can i find out about my new pin,38,38.0,0.44163990020751953,174,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: where in the app can i find out about my new pin.
+output:"
+Where in the app can I find my PIN?,38,38.0,0.4387631416320801,172,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Where in the app can I find my PIN?.
+output:"
+I just got my new card but am not sure how to check its PIN.,38,38.0,0.4386100769042969,177,820,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I just got my new card but am not sure how to check its PIN..
+output:"
+do i need a pin,38,38.0,0.43743228912353516,167,775,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: do i need a pin.
+output:"
+"If I need a PIN for my card, where is it located?",38,17.0,0.4386148452758789,176,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: If I need a PIN for my card, where is it located?.
+output:"
+what is my card PIN,38,38.0,0.43982625007629395,167,779,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is my card PIN.
+output:"
+And what about the Card's PIN?,38,38.0,0.4390547275543213,170,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: And what about the Card's PIN?.
+output:"
+About this card PIN?,38,38.0,0.43793582916259766,167,780,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: About this card PIN?.
+output:"
+I received my card but not my PIN.,38,38.0,0.4397270679473877,170,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I received my card but not my PIN..
+output:"
+Why can't I see my PIN?,38,38.0,0.43752169609069824,170,783,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why can't I see my PIN?.
+output:"
+what is the process for setting up a pin,38,38.0,0.4381396770477295,171,800,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin.
+output:"
+Does my PIN come with my card?,38,38.0,0.4376373291015625,170,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Does my PIN come with my card?.
+output:"
+Where can I find the card PIN?,38,38.0,0.43761634826660156,170,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Where can I find the card PIN?.
+output:"
+Why isn't my PIN available yet?,38,,0.43784284591674805,170,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why isn't my PIN available yet?.
+output:"
+Is my PIN located on my account somewhere?,38,38.0,0.43787670135498047,171,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Is my PIN located on my account somewhere?.
+output:"
+"Please help in finding my card PIN, thank you!",38,38.0,0.4396793842315674,173,806,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Please help in finding my card PIN, thank you!.
+output:"
+Where is my PIN number located?,38,38.0,0.4387831687927246,169,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Where is my PIN number located?.
+output:"
+I still don't have my pin.,38,38.0,0.4379434585571289,169,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I still don't have my pin..
+output:"
+So what about the card PIN?,38,38.0,0.43844103813171387,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: So what about the card PIN?.
+output:"
+I cannot locate the card PIN.,38,38.0,0.4398932456970215,168,789,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I cannot locate the card PIN..
+output:"
+I need my PIN,38,38.0,0.43697381019592285,166,773,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I need my PIN.
+output:"
+Where can I find my PIN?,38,38.0,0.43710899353027344,169,784,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Where can I find my PIN?.
+output:"
+When do I receive my PIN,38,17.0,0.438091516494751,168,784,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: When do I receive my PIN.
+output:"
+Help me find my card pin!,38,17.0,0.43817853927612305,169,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Help me find my card pin!.
+output:"
+Is PIN delivered separately?,38,38.0,0.4405059814453125,167,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Is PIN delivered separately?.
+output:"
+I can not find my card pin.,38,17.0,0.44008469581604004,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I can not find my card pin..
+output:"
+What do I need to do for a PIN?,38,38.0,0.4398808479309082,172,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What do I need to do for a PIN?.
+output:"
+Why can't I find my PIN?,38,38.0,0.4380810260772705,170,784,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Why can't I find my PIN?.
+output:"
+Where is the card PIN?,38,38.0,0.4434025287628174,168,782,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Where is the card PIN?.
+output:"
+What is my card's PIN?,38,38.0,0.44115281105041504,169,782,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What is my card's PIN?.
+output:"
+where can user find pin?,38,38.0,0.43915820121765137,168,784,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: where can user find pin?.
+output:"
+I think someone is using my card to make transactions I don't remember.,22,22.0,0.43865251541137695,176,831,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I think someone is using my card to make transactions I don't remember..
+output:"
+someone is using my account,22,22.0,0.43849945068359375,167,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: someone is using my account.
+output:"
+Someone I don't know has used my card without permission.,22,22.0,0.4392426013946533,173,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Someone I don't know has used my card without permission..
+output:"
+My card was used without my permission.,22,22.0,0.43813014030456543,169,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: My card was used without my permission..
+output:"
+Can I freeze my card right now?,22,17.0,0.4378688335418701,170,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can I freeze my card right now?.
+output:"
+Freeze my account it's been hacked.,22,22.0,0.4387838840484619,169,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Freeze my account it's been hacked..
+output:"
+"There are transactions I didn't make, someone else must have used my card.",22,22.0,0.44031381607055664,177,834,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: There are transactions I didn't make, someone else must have used my card..
+output:"
+Can you freeze my card because someone used it while I was out of town. I did not make these purchases.,22,22.0,0.4398939609527588,184,863,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Can you freeze my card because someone used it while I was out of town. I did not make these purchases..
+output:"
+Someone is using my account to do online shopping! Please freeze it asap,22,22.0,0.45596790313720703,177,832,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Someone is using my account to do online shopping! Please freeze it asap.
+output:"
+Someone else may be using my card.  There are transactions I don't recognize.,22,22.0,0.43827128410339355,178,837,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Someone else may be using my card.  There are transactions I don't recognize..
+output:"
+What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!,22,22.0,0.4965784549713135,198,928,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!.
+output:"
+What do I do if I think my card was improperly used?,22,38.0,0.4386565685272217,175,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: What do I do if I think my card was improperly used?.
+output:"
+How can I stop fraud on my account right now?,22,17.0,0.4363727569580078,173,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I stop fraud on my account right now?.
+output:"
+"I think my identity has been stolen, can you check on unauthorized charges?",22,22.0,0.43625926971435547,177,835,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I think my identity has been stolen, can you check on unauthorized charges?.
+output:"
+I think someone else is using my card.  There are transactions I didn't make.,22,22.0,0.43404173851013184,179,837,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I think someone else is using my card.  There are transactions I didn't make..
+output:"
+"I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it.",22,22.0,0.4356350898742676,186,873,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it..
+output:"
+Can I use app to freeze account and dispute fraud?,22,23.0,0.43643832206726074,173,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: Can I use app to freeze account and dispute fraud?.
+output:"
+My card is being used online to make a bunch of purchases! Someone else is using it fraudulently. Can you help me freeze it?,22,22.0,0.4380359649658203,191,884,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: My card is being used online to make a bunch of purchases! Someone else is using it fraudulently. Can you help me freeze it?.
+output:"
+"Someone has my card number, freeze my account.",22,22.0,0.4394245147705078,171,806,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Someone has my card number, freeze my account..
+output:"
+"I see random purchases to my account, was it hacked?",22,22.0,0.43919801712036133,174,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I see random purchases to my account, was it hacked?.
+output:"
+It seems someone used my card! There are a few transactions from a small town in the middle of nowhere that I definitely have not made! Please prevent them from using it immediately!,22,22.0,0.4951486587524414,198,942,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: It seems someone used my card! There are a few transactions from a small town in the middle of nowhere that I definitely have not made! Please prevent them from using it immediately!.
+output:"
+How do I freeze my card using the app?,22,17.0,0.44150424003601074,172,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I freeze my card using the app?.
+output:"
+My card has been compromised,22,17.0,0.43972182273864746,167,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: My card has been compromised.
+output:"
+What should I do if I think that someone else may be using my card.,22,22.0,0.43987226486206055,177,827,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What should I do if I think that someone else may be using my card..
+output:"
+"The transactions showing up are strange, I think my card was used without me knowing.",22,22.0,0.4403259754180908,178,845,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: The transactions showing up are strange, I think my card was used without me knowing..
+output:"
+How do I freeze my account?,22,17.0,0.43846774101257324,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I freeze my account?.
+output:"
+"I'm not certain, but someone may be using my card.",22,22.0,0.43849873542785645,174,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I'm not certain, but someone may be using my card..
+output:"
+How do I freeze my card? I think someone is using it to make a bunch of online transactions.,22,17.0,0.4404733180999756,182,852,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: How do I freeze my card? I think someone is using it to make a bunch of online transactions..
+output:"
+I think someone got my card details and used it because there are transactions i don't recognize. What do I do now?,22,22.0,0.43985629081726074,187,875,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I think someone got my card details and used it because there are transactions i don't recognize. What do I do now?.
+output:"
+Someone else used my card!,22,38.0,0.43750739097595215,168,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Someone else used my card!.
+output:"
+I believe someone is using my card without my agreement!,22,,0.44006991386413574,173,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I believe someone is using my card without my agreement!.
+output:"
+"If I feel someone has my card information, can I get a new card?",22,38.0,0.4390590190887451,178,824,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: If I feel someone has my card information, can I get a new card?.
+output:"
+"There are a few transaction that I don't recognize, I think someone managed to get my card details and use it.",22,22.0,0.44119930267333984,185,870,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: There are a few transaction that I don't recognize, I think someone managed to get my card details and use it..
+output:"
+I think someone has access to my card numbers that shouldn't.,22,22.0,0.4392118453979492,174,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I think someone has access to my card numbers that shouldn't..
+output:"
+I think my child used my card while I wasn't home.,22,,0.4386458396911621,174,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I think my child used my card while I wasn't home..
+output:"
+What do I do if I think someone managed to get my card information?,22,22.0,0.4401252269744873,177,827,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: what is the process for setting up a pin
+output: 38
+
+input: What do I do if I think someone managed to get my card information?.
+output:"
+I think someone copied the numbers on my card and is using them.,22,22.0,0.4389636516571045,175,824,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: what is the process for setting up a pin
+output: 38
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: I think someone copied the numbers on my card and is using them..
+output:"
+What should I do if I think someone is using my card.,22,22.0,0.4398953914642334,174,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: What should I do if I think someone is using my card..
+output:"
+Can I use app to freeze my card and dispute fraud?,22,17.0,0.439190149307251,174,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: How can I modify my details?
+output: 30
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Can I use app to freeze my card and dispute fraud?.
+output:"
+"Someone else is using my card, freeze it.",22,22.0,0.4359090328216553,171,801,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: I see random purchases to my account, was it hacked?
+output: 22
+
+input: what is the process for setting up a pin
+output: 38
+
+input: Can you help my fix my contactless?
+output: 23
+
+input: How can I modify my details?
+output: 30
+
+input: I purchased an item and the exchange rate I was given was incorrect.
+output: 17
+
+input: Someone else is using my card, freeze it..
+output:"

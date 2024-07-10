@@ -1,0 +1,4001 @@
+text,label,prediction,inference_time,input_tokens_length,prompt_length,prompt
+I payed with a card and was charged an extra fee,15,15.0,0.6129574775695801,175,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I payed with a card and was charged an extra fee.
+output:"
+I was charged a fee after using my card and I shouldn't have been.,15,15.0,0.6520593166351318,178,829,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I was charged a fee after using my card and I shouldn't have been..
+output:"
+Is there a reason I was charged a fee for using my card as payment? I've never had an extra fee before.,15,15.0,0.41402173042297363,187,866,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Is there a reason I was charged a fee for using my card as payment? I've never had an extra fee before..
+output:"
+"I show another charge on my card from when I used it, why?",15,5.0,0.41244029998779297,178,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I show another charge on my card from when I used it, why?.
+output:"
+"Why do I get charged additional fees on some payments, but not others?",15,15.0,0.4122493267059326,178,833,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why do I get charged additional fees on some payments, but not others?.
+output:"
+I used my card for a purchase and was charged a fee,15,15.0,0.41175413131713867,175,814,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I used my card for a purchase and was charged a fee.
+output:"
+Why was I charged for card payment?,15,15.0,0.411419153213501,171,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was I charged for card payment?.
+output:"
+There is an unauthorized fee.,15,,0.41207098960876465,168,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: There is an unauthorized fee..
+output:"
+I would appreciate that someone let me know when there is an extra charge for payments. I was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before.,15,15.0,0.4707777500152588,206,980,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I would appreciate that someone let me know when there is an extra charge for payments. I was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before..
+output:"
+Why was I charged an extra fee when paying with my card?,15,15.0,0.4132869243621826,176,819,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was I charged an extra fee when paying with my card?.
+output:"
+Why did I have to pay extra because I paid with card?,15,15.0,0.41086745262145996,176,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why did I have to pay extra because I paid with card?.
+output:"
+Why are there fees for card usage?,15,15.0,0.411592960357666,171,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why are there fees for card usage?.
+output:"
+im not sure what this charge is for,15,15.0,0.4114384651184082,171,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: im not sure what this charge is for.
+output:"
+What is the fee charged with this card payment?,15,15.0,0.41132569313049316,173,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What is the fee charged with this card payment?.
+output:"
+When would my card be charged an extra fee for a transaction?,15,15.0,0.4128611087799072,176,824,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: When would my card be charged an extra fee for a transaction?.
+output:"
+Why did I have to pay more when I do it with my card?,15,,0.41236376762390137,178,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why did I have to pay more when I do it with my card?.
+output:"
+I made a card payment and a fee is showing up?,15,15.0,0.41106247901916504,175,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made a card payment and a fee is showing up?.
+output:"
+I have been charged a fee for paying with card,15,15.0,0.4119563102722168,173,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I have been charged a fee for paying with card.
+output:"
+What is the fee on my card payment?,15,15.0,0.4118480682373047,172,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What is the fee on my card payment?.
+output:"
+Why would I be charged a fee for card payment?,15,15.0,0.4119749069213867,174,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why would I be charged a fee for card payment?.
+output:"
+Will I always be charged a fee for using my card?,15,15.0,0.4113938808441162,175,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Will I always be charged a fee for using my card?.
+output:"
+"Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, what's the pattern there?",15,15.0,0.4132504463195801,193,893,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, what's the pattern there?.
+output:"
+Paying in card resulted in a fee,15,15.0,0.41106653213500977,171,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Paying in card resulted in a fee.
+output:"
+I paid with card and I think there was a fee applied.,15,15.0,0.41161036491394043,175,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I paid with card and I think there was a fee applied..
+output:"
+So what items  actually come  with  extra  fees,15,15.0,0.41139721870422363,175,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: So what items  actually come  with  extra  fees.
+output:"
+How do I avoid getting charged a fee on my card?,15,15.0,0.41202402114868164,175,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do I avoid getting charged a fee on my card?.
+output:"
+Is there a fee when you pay with your card?,15,15.0,0.4110679626464844,174,806,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Is there a fee when you pay with your card?.
+output:"
+I have been charged with a fee for paying with my card.,15,15.0,0.4114079475402832,175,818,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I have been charged with a fee for paying with my card..
+output:"
+For the first time I got a fee on my account. How do I know when you charge these fees?,15,15.0,0.4135301113128662,185,850,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: For the first time I got a fee on my account. How do I know when you charge these fees?.
+output:"
+Someone needs to make me aware when there are extra charges for payments. I happened to be looking at the app earlier and noticed a charge associated to a payment that was extra that no one made me aware of before at all.,15,5.0,0.46866869926452637,207,984,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Someone needs to make me aware when there are extra charges for payments. I happened to be looking at the app earlier and noticed a charge associated to a payment that was extra that no one made me aware of before at all..
+output:"
+Is using my card free?,15,15.0,0.4111013412475586,169,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Is using my card free?.
+output:"
+Why was I charged an extra fee when using a card?,15,15.0,0.41132259368896484,175,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was I charged an extra fee when using a card?.
+output:"
+What fees apply when using a card?,15,15.0,0.41090941429138184,171,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What fees apply when using a card?.
+output:"
+Why do you charge for payments? Why aren't your charges clearly laid out in the agreement?,15,15.0,0.4120666980743408,182,853,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why do you charge for payments? Why aren't your charges clearly laid out in the agreement?.
+output:"
+Why was I charged a fee when I paid with card?,15,15.0,0.4110903739929199,175,809,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was I charged a fee when I paid with card?.
+output:"
+There is a fee on my account. Why?,15,15.0,0.4111335277557373,173,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: There is a fee on my account. Why?.
+output:"
+Why do you charge fees on card payments?,15,15.0,0.41113710403442383,172,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why do you charge fees on card payments?.
+output:"
+I was charged a fee for a card payment. Why?,15,15.0,0.4113888740539551,175,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I was charged a fee for a card payment. Why?.
+output:"
+Why was a charged a fee for using the card?,15,15.0,0.4119884967803955,174,806,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was a charged a fee for using the card?.
+output:"
+They charged me for paying with my card.,15,15.0,0.4109070301055908,171,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: They charged me for paying with my card..
+output:"
+My credit card was declined.,25,25.0,0.41016268730163574,168,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My credit card was declined..
+output:"
+The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner.,25,,0.46956777572631836,219,1029,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner..
+output:"
+Why was my card payment declined?,25,25.0,0.4114353656768799,170,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was my card payment declined?.
+output:"
+I was trying to purchase something at the store today and my card has been declined.  Why has this happened?,25,25.0,0.4125485420227051,186,871,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I was trying to purchase something at the store today and my card has been declined.  Why has this happened?.
+output:"
+"My payment has been declined, I thought this issue was fixed!",25,25.0,0.4107627868652344,176,824,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My payment has been declined, I thought this issue was fixed!.
+output:"
+My card was declined in a shop,25,,0.4112670421600342,170,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card was declined in a shop.
+output:"
+Why did it decline my payment?,25,25.0,0.4107487201690674,170,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why did it decline my payment?.
+output:"
+My card declined,25,5.0,0.4105532169342041,166,779,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card declined.
+output:"
+Can you look at my account ans see why my card was declined,25,25.0,0.41239428520202637,176,822,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Can you look at my account ans see why my card was declined.
+output:"
+"I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, what's going on?",25,25.0,0.46872496604919434,195,906,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, what's going on?.
+output:"
+Why was a transaction on my card declined?,25,5.0,0.4108860492706299,172,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was a transaction on my card declined?.
+output:"
+My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?,25,5.0,0.41363096237182617,189,877,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?.
+output:"
+"My latest payment was declined, I was told everything was back to working order. What happened?",25,25.0,0.4127328395843506,182,858,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My latest payment was declined, I was told everything was back to working order. What happened?.
+output:"
+I know I have enough funds in my account but my card payment hasn't worked for some reason. What do I do?,25,5.0,0.4138674736022949,188,868,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I know I have enough funds in my account but my card payment hasn't worked for some reason. What do I do?.
+output:"
+Why doesn't the card payment work,25,15.0,0.4107675552368164,170,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why doesn't the card payment work.
+output:"
+I'm really stuck. I don't know why but my card payment has not gone through.,25,5.0,0.41207313537597656,181,839,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I'm really stuck. I don't know why but my card payment has not gone through..
+output:"
+"I have a card payment that was declined, but why?",25,25.0,0.4113149642944336,175,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I have a card payment that was declined, but why?.
+output:"
+Do you know why my card payment did not work?,25,15.0,0.41307711601257324,174,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Do you know why my card payment did not work?.
+output:"
+Something is wrong with my payment account since it has been declined,25,5.0,0.41135168075561523,175,832,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Something is wrong with my payment account since it has been declined.
+output:"
+Why are you declining my payment? Everything was fine.,25,25.0,0.4115126132965088,173,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why are you declining my payment? Everything was fine..
+output:"
+I don't know why my payment didn't work.,25,5.0,0.41103386878967285,173,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I don't know why my payment didn't work..
+output:"
+My card payment did not work.,25,15.0,0.41042351722717285,169,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card payment did not work..
+output:"
+Why is my debit card being declined when I have money?,25,25.0,0.4119551181793213,175,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why is my debit card being declined when I have money?.
+output:"
+My card was not accepted.,25,25.0,0.4112057685852051,168,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card was not accepted..
+output:"
+I have no idea why my card payment did not work.,25,5.0,0.41230106353759766,174,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I have no idea why my card payment did not work..
+output:"
+"My card payment didn't work, can you help?",25,5.0,0.4126102924346924,174,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card payment didn't work, can you help?.
+output:"
+"My card was rejected at the store for some reason, can you look into this for me?",25,5.0,0.4134480953216553,182,844,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card was rejected at the store for some reason, can you look into this for me?.
+output:"
+Please explain why my card was declined?,25,25.0,0.4114952087402344,171,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Please explain why my card was declined?.
+output:"
+"Hello, I am facing the issue with my new card as payments are declining again and again. Please help me in this issue.",25,25.0,0.4134211540222168,188,881,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Hello, I am facing the issue with my new card as payments are declining again and again. Please help me in this issue..
+output:"
+Do you know why my card payment is declined?,25,25.0,0.41229701042175293,173,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Do you know why my card payment is declined?.
+output:"
+Why was my Payment declined,25,25.0,0.410632848739624,168,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was my Payment declined.
+output:"
+They declined my card payment.,25,25.0,0.4112560749053955,168,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: They declined my card payment..
+output:"
+Why has my card payment been declined?,25,25.0,0.4118921756744385,171,801,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why has my card payment been declined?.
+output:"
+"I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?",25,25.0,0.41396641731262207,189,881,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?.
+output:"
+My card payment did not complete.,25,15.0,0.4120044708251953,169,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card payment did not complete..
+output:"
+My card didn't work in one of the shops.,25,5.0,0.41140317916870117,173,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My card didn't work in one of the shops..
+output:"
+Card payment declined?,25,25.0,0.4119267463684082,167,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Card payment declined?.
+output:"
+"I tried using my card and it kept getting declined, Why?",25,25.0,0.4119710922241211,176,819,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I tried using my card and it kept getting declined, Why?.
+output:"
+How do you fix  my card payment?,25,15.0,0.4115011692047119,172,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do you fix  my card payment?.
+output:"
+Why do you keep declining my payment? I tried several times already with this card and it's just not working,25,25.0,0.41294145584106445,185,871,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why do you keep declining my payment? I tried several times already with this card and it's just not working.
+output:"
+What kind of cash machines would allow me to change my PIN?,21,21.0,0.41196560859680176,176,822,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What kind of cash machines would allow me to change my PIN?.
+output:"
+Where do I change my PIN?,21,21.0,0.41158080101013184,170,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Where do I change my PIN?.
+output:"
+Is the bank the only place I can change my PIN>,21,21.0,0.4116668701171875,174,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Is the bank the only place I can change my PIN>.
+output:"
+"If I am overseas, how do I change my pin?",21,21.0,0.4118058681488037,175,804,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: If I am overseas, how do I change my pin?.
+output:"
+Can i change my PIN at the ATM?,21,21.0,0.41205716133117676,172,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Can i change my PIN at the ATM?.
+output:"
+How might  I change my PIN?,21,21.0,0.4114692211151123,171,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How might  I change my PIN?.
+output:"
+I would like to change my PIN but I am not currently in the country.,21,21.0,0.4129974842071533,178,831,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I would like to change my PIN but I am not currently in the country..
+output:"
+I would like to change my card PIN.,21,21.0,0.4109973907470703,171,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I would like to change my card PIN..
+output:"
+I want to set a new PIN,21,21.0,0.41102123260498047,170,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I want to set a new PIN.
+output:"
+"I desperately need to change my PIN, but I'm overseas on vacation right now. How can I do this?",21,21.0,0.4127233028411865,186,858,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I desperately need to change my PIN, but I'm overseas on vacation right now. How can I do this?.
+output:"
+I need a new Pin how do I go about that?,21,21.0,0.411712646484375,175,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need a new Pin how do I go about that?.
+output:"
+Is there a location near me that i can change my PIN?,21,21.0,0.4118683338165283,176,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Is there a location near me that i can change my PIN?.
+output:"
+In what ATM can I change my pin?,21,21.0,0.4116342067718506,172,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: In what ATM can I change my pin?.
+output:"
+I'd like to make a new PIN selection.,21,21.0,0.4110593795776367,172,800,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I'd like to make a new PIN selection..
+output:"
+How do I set a new pin?,21,21.0,0.41129589080810547,171,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do I set a new pin?.
+output:"
+How do I update my PIN to a new number?,21,21.0,0.4120357036590576,174,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do I update my PIN to a new number?.
+output:"
+How can I change my Tholepin ?,21,21.0,0.41171860694885254,172,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How can I change my Tholepin ?.
+output:"
+My new pin needs to be set.,21,21.0,0.411271333694458,170,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My new pin needs to be set..
+output:"
+I want to choose a different PIN.,21,21.0,0.4114809036254883,170,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I want to choose a different PIN..
+output:"
+I would like to change my pin.,21,21.0,0.41139721870422363,170,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I would like to change my pin..
+output:"
+Am I able to change my PIN at any cash machines?,21,21.0,0.4117748737335205,175,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Am I able to change my PIN at any cash machines?.
+output:"
+I am travelling for two more weeks but really need to change my PIN asap. What do I do?,21,21.0,0.41203951835632324,185,850,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I am travelling for two more weeks but really need to change my PIN asap. What do I do?.
+output:"
+I need to change my PIN. Can I do that at a cash machine?,21,21.0,0.41231727600097656,179,820,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need to change my PIN. Can I do that at a cash machine?.
+output:"
+Do cash machines let me change my pin?,21,21.0,0.4123868942260742,172,801,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Do cash machines let me change my pin?.
+output:"
+How do I change my PIN?,21,21.0,0.4116783142089844,170,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do I change my PIN?.
+output:"
+I need to change my PIN.,21,21.0,0.41142892837524414,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need to change my PIN..
+output:"
+May I receive a different card pin,21,21.0,0.41168713569641113,170,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: May I receive a different card pin.
+output:"
+What do I need to do to change my PIN?,21,21.0,0.4119138717651367,174,801,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What do I need to do to change my PIN?.
+output:"
+Help me set up a new PIN?,21,21.0,0.41132020950317383,171,788,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Help me set up a new PIN?.
+output:"
+Which cash machines will allow me to change my PIN?,21,21.0,0.41297388076782227,174,814,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Which cash machines will allow me to change my PIN?.
+output:"
+"I am in Austria right now. I need to change my PIN ASAP, so can I still do this from here?",21,21.0,0.41216421127319336,187,853,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I am in Austria right now. I need to change my PIN ASAP, so can I still do this from here?.
+output:"
+Where can I find instructions to change my PIN?,21,21.0,0.4105348587036133,173,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Where can I find instructions to change my PIN?.
+output:"
+I need to change my pin but I am on the road.,21,21.0,0.41191720962524414,175,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need to change my pin but I am on the road..
+output:"
+How do I update the PIN on my account?,21,21.0,0.4122145175933838,173,801,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do I update the PIN on my account?.
+output:"
+I need a new PIN.,21,21.0,0.41104650497436523,168,780,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need a new PIN..
+output:"
+Show me how to change my pin?,21,21.0,0.41124868392944336,171,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Show me how to change my pin?.
+output:"
+Please tell me which cash machines will allow me to change my pin.,21,21.0,0.41175150871276855,176,829,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Please tell me which cash machines will allow me to change my pin..
+output:"
+What steps do I need to take to change my card PIN?,21,21.0,0.4119381904602051,176,814,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What steps do I need to take to change my card PIN?.
+output:"
+How to change the PIN on my card?,21,21.0,0.41159963607788086,172,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How to change the PIN on my card?.
+output:"
+How can I change the PIN?  Do I have to go to a real bank?,21,21.0,0.41329336166381836,181,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How can I change the PIN?  Do I have to go to a real bank?.
+output:"
+The app denied my topped up.,59,59.0,0.4112217426300049,169,791,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: The app denied my topped up..
+output:"
+"Heyy I tried to top up with my card today but it failed! I just got the couple days before but it has worked last time. What's going on, can you double check please?",59,59.0,0.4688684940338135,203,928,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Heyy I tried to top up with my card today but it failed! I just got the couple days before but it has worked last time. What's going on, can you double check please?.
+output:"
+I have a top up that didn't go through.  Why?,59,59.0,0.41176652908325195,177,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I have a top up that didn't go through.  Why?.
+output:"
+"So, I tried topping up my card for the today. Unfortunately, it failed. A couple of days back I used it and it works fine. Can you double check and tell me what's going on?",59,59.0,0.46898818016052246,205,935,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: So, I tried topping up my card for the today. Unfortunately, it failed. A couple of days back I used it and it works fine. Can you double check and tell me what's going on?.
+output:"
+Why did the app deny my top up?,59,5.0,0.41111087799072266,172,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why did the app deny my top up?.
+output:"
+please tell me why my top-up failed.,59,59.0,0.41136789321899414,171,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: please tell me why my top-up failed..
+output:"
+My top-up isn't working.,59,59.0,0.4115934371948242,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My top-up isn't working..
+output:"
+I attempted to top up but the app denied it.,59,59.0,0.411609411239624,173,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I attempted to top up but the app denied it..
+output:"
+What reason did my top-up fail for?,59,59.0,0.41211724281311035,172,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What reason did my top-up fail for?.
+output:"
+Why didn`t my topup go through?,59,59.0,0.41124463081359863,172,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why didn`t my topup go through?.
+output:"
+How can I check to see if my top-up worked?,59,21.0,0.4120523929595947,175,806,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How can I check to see if my top-up worked?.
+output:"
+My top up didn't work.,59,59.0,0.41092944145202637,169,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My top up didn't work..
+output:"
+My top up failed.,59,59.0,0.4115447998046875,167,780,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My top up failed..
+output:"
+Why would my topup not go through?,59,59.0,0.41243433952331543,172,797,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why would my topup not go through?.
+output:"
+Why caused my top up to not work?,59,59.0,0.414715051651001,172,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why caused my top up to not work?.
+output:"
+Why did my top up not work?,59,59.0,0.41044116020202637,171,790,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why did my top up not work?.
+output:"
+Why was my top-up unsuccessful?,59,59.0,0.41150617599487305,170,794,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why was my top-up unsuccessful?.
+output:"
+My funding to my card didn't go through.,59,5.0,0.4126133918762207,172,803,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My funding to my card didn't go through..
+output:"
+I need to know why my credit card was declined for top up? What is the deal here and why did it not go through?,59,25.0,0.413222074508667,190,874,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need to know why my credit card was declined for top up? What is the deal here and why did it not go through?.
+output:"
+I topped up but the app did not accept it.,59,59.0,0.41085290908813477,173,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I topped up but the app did not accept it..
+output:"
+The app denied my top-up,59,59.0,0.4104773998260498,169,787,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: The app denied my top-up.
+output:"
+I think my top up did not work,59,59.0,0.41051411628723145,171,793,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I think my top up did not work.
+output:"
+My top up was denied in the app.,59,59.0,0.41137146949768066,171,795,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My top up was denied in the app..
+output:"
+Can you tell me if my pop-up went through?,59,5.0,0.41268157958984375,174,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Can you tell me if my pop-up went through?.
+output:"
+can you check why I wasn't able to top up?,59,59.0,0.41216492652893066,175,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: can you check why I wasn't able to top up?.
+output:"
+How did my top-up fail?,59,59.0,0.41137242317199707,170,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How did my top-up fail?.
+output:"
+"My top-up failed, WHY?",59,59.0,0.41098785400390625,170,785,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My top-up failed, WHY?.
+output:"
+I tried to top up. Why was it denied?,59,59.0,0.41297316551208496,174,800,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I tried to top up. Why was it denied?.
+output:"
+What's the deal? My card was just denied for top up. Why is it not going through?,59,25.0,0.41300225257873535,184,844,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: What's the deal? My card was just denied for top up. Why is it not going through?.
+output:"
+I don't think my top up is working correctly,59,59.0,0.4113938808441162,173,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I don't think my top up is working correctly.
+output:"
+The app won't let me top up my account,59,59.0,0.4115307331085205,173,801,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: The app won't let me top up my account.
+output:"
+I'm not sure why my top up request was denied,59,5.0,0.4120345115661621,174,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I'm not sure why my top up request was denied.
+output:"
+Why can't I top up?,59,59.0,0.4114673137664795,170,782,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why can't I top up?.
+output:"
+My top-up has failed.,59,59.0,0.41101646423339844,168,784,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My top-up has failed..
+output:"
+Problems with top up,59,59.0,0.41138243675231934,167,783,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Problems with top up.
+output:"
+"I really need money from my card today, but my card is getting declined. Please help!!",59,5.0,0.4120824337005615,182,849,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I really need money from my card today, but my card is getting declined. Please help!!.
+output:"
+How do I know if my top up was unsuccessful?,59,59.0,0.411207914352417,174,807,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How do I know if my top up was unsuccessful?.
+output:"
+I'm pretty sure my top up failed. How do I fix this?,59,59.0,0.4126269817352295,178,815,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I'm pretty sure my top up failed. How do I fix this?.
+output:"
+why isnt top up working,59,59.0,0.41152119636535645,168,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: why isnt top up working.
+output:"
+Can you tell me why my top up didn't work?,59,59.0,0.41236257553100586,175,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Can you tell me why my top up didn't work?.
+output:"
+I made a transfer a few hours ago from a UK banking account.  I do not yet see the transfer.  Please check on this for me.,5,5.0,0.41289615631103516,193,885,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made a transfer a few hours ago from a UK banking account.  I do not yet see the transfer.  Please check on this for me..
+output:"
+the balance on my account didnt change when i transferred money,5,5.0,0.411881685256958,174,826,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: the balance on my account didnt change when i transferred money.
+output:"
+How long will it take for my transferred money to show up?,5,5.0,0.4113926887512207,176,821,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How long will it take for my transferred money to show up?.
+output:"
+Why didn't my balance change after I transferred some money?,5,5.0,0.41121768951416016,175,823,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why didn't my balance change after I transferred some money?.
+output:"
+When will my balance update after a transfer?,5,5.0,0.41111063957214355,172,808,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: When will my balance update after a transfer?.
+output:"
+How long does it take for an international transfer into my account?,5,5.0,0.4117431640625,176,831,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How long does it take for an international transfer into my account?.
+output:"
+The amount of time that transfers usually take from a UK account is what?I just completed a transfer and it is not showing up at all. I'm wondering at this point if everything is actually okay.,5,5.0,0.46874094009399414,203,956,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: The amount of time that transfers usually take from a UK account is what?I just completed a transfer and it is not showing up at all. I'm wondering at this point if everything is actually okay..
+output:"
+When will my transfer be available in my account.,5,5.0,0.41139864921569824,172,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: When will my transfer be available in my account..
+output:"
+I didn't get the money I transferred,5,5.0,0.41115880012512207,171,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I didn't get the money I transferred.
+output:"
+I just completed a bank transfer and the balance didn't update,5,5.0,0.4112894535064697,175,825,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I just completed a bank transfer and the balance didn't update.
+output:"
+I transferred some money but I think it has gotten lost somewhere.,5,5.0,0.41099977493286133,175,829,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I transferred some money but I think it has gotten lost somewhere..
+output:"
+How long does a UK transfer take?,5,5.0,0.41121387481689453,171,796,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How long does a UK transfer take?.
+output:"
+Hello I made a bank transfer couple hours ago from my UK account but it doesn't show up yet. Can you please check if everything is alright with it?,5,5.0,0.4682307243347168,195,910,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Hello I made a bank transfer couple hours ago from my UK account but it doesn't show up yet. Can you please check if everything is alright with it?.
+output:"
+I made a transfer and am still waiting.,5,5.0,0.4113953113555908,171,802,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made a transfer and am still waiting..
+output:"
+I made an out of country transfer and it hasn't went through yet.,5,5.0,0.4113883972167969,177,828,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made an out of country transfer and it hasn't went through yet..
+output:"
+"After the transfer, the balance did not update.",5,5.0,0.41110897064208984,172,810,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: After the transfer, the balance did not update..
+output:"
+"Could you please check one of my transfer which i made few hours ago from my UK bank account, as its not showing yet.",5,5.0,0.4134693145751953,188,880,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Could you please check one of my transfer which i made few hours ago from my UK bank account, as its not showing yet..
+output:"
+I had cash transferred but the balance did not change.,5,5.0,0.41158342361450195,173,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I had cash transferred but the balance did not change..
+output:"
+I can't see my latest bank transfer,5,5.0,0.4107482433319092,171,798,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I can't see my latest bank transfer.
+output:"
+My bank transfer is still not showing up in my account.,5,5.0,0.4113185405731201,174,818,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My bank transfer is still not showing up in my account..
+output:"
+I made a transfer and it doesnt' show up in my account.,5,5.0,0.41107964515686035,176,818,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made a transfer and it doesnt' show up in my account..
+output:"
+I transferred some money but it is yet to arrive.,5,5.0,0.4118502140045166,173,812,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I transferred some money but it is yet to arrive..
+output:"
+Why is my balance the same?  I processed a transfer.,5,5.0,0.4125523567199707,175,815,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why is my balance the same?  I processed a transfer..
+output:"
+Why don't I have my transfer?,5,5.0,0.4112546443939209,171,792,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why don't I have my transfer?.
+output:"
+Why isn't the transfer on my account showing up?,5,5.0,0.4117412567138672,174,811,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why isn't the transfer on my account showing up?.
+output:"
+The  money I transferred does not show in the balance.,5,5.0,0.413593053817749,174,817,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: The  money I transferred does not show in the balance..
+output:"
+I have completed a transfer but it is not showing up.,5,5.0,0.41126394271850586,174,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I have completed a transfer but it is not showing up..
+output:"
+I did a transfer to my account but it doesn't show up,5,5.0,0.4110896587371826,176,816,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I did a transfer to my account but it doesn't show up.
+output:"
+How long until my transfer will be available to me,5,5.0,0.4112558364868164,173,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: How long until my transfer will be available to me.
+output:"
+Why doesn't it show that I did a balance transfer?,5,5.0,0.41085267066955566,175,813,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why doesn't it show that I did a balance transfer?.
+output:"
+"I made a bank transfer a couple of hours ago from my UK account.  It hasn't appeared, can you check to make sure it went through?",5,5.0,0.4680211544036865,194,892,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made a bank transfer a couple of hours ago from my UK account.  It hasn't appeared, can you check to make sure it went through?.
+output:"
+My transfer is pending.,5,5.0,0.41179704666137695,167,786,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My transfer is pending..
+output:"
+"Hey, I try to make a bank transfer from my UK account a few hours ago, but it haven't show up yet. Please check my account to make sure everything alright with it?",5,5.0,0.4685330390930176,201,926,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Hey, I try to make a bank transfer from my UK account a few hours ago, but it haven't show up yet. Please check my account to make sure everything alright with it?.
+output:"
+Where is my transfer from [country]?,5,5.0,0.4117391109466553,171,799,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Where is my transfer from [country]?.
+output:"
+I made a bank transfer and my account balance did not show it.,5,5.0,0.41126132011413574,176,825,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I made a bank transfer and my account balance did not show it..
+output:"
+Where is my money? I transfered it and it isn't in my account.,5,5.0,0.4122300148010254,179,825,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Where is my money? I transfered it and it isn't in my account..
+output:"
+I need to know the time frame that is typical for a transfer from a UK account. I just made a transfer and it doesn't appear. I want to make sure everything is okay.,5,5.0,0.4700050354003906,200,928,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: I need to know the time frame that is typical for a transfer from a UK account. I just made a transfer and it doesn't appear. I want to make sure everything is okay..
+output:"
+Why doesn't my balance reflect my transfer,5,5.0,0.41182732582092285,171,805,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: Why doesn't my balance reflect my transfer.
+output:"
+My account balance has not gone up even though I just transferred money into it,5,5.0,0.4118058681488037,178,842,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: My account balance has not gone up even though I just transferred money into it.
+output:"
+When will I see my new balance after making my bank transfer?,5,5.0,0.41208624839782715,176,824,"Your task is to classify a given text by assigning a label from the examples to it, Please ONLY respond with the label as a number. ONLY use labels you see in the examples, don't make up own labels.
+Here are some examples:
+
+input: Why would I be charged a fee for card payment?
+output: 15
+
+input: Why are you declining my payment? Everything was fine.
+output: 25
+
+input: I would like to change my pin.
+output: 21
+
+input: I topped up but the app did not accept it.
+output: 59
+
+input: My bank transfer is still not showing up in my account.
+output: 5
+
+input: When will I see my new balance after making my bank transfer?.
+output:"
